@@ -1,7 +1,8 @@
 # Ziombkowy Generator Haseł
 <img src="https://cdn.discordapp.com/attachments/1016613165359968277/1205565028527251526/cos.png?ex=65d8d4ed&is=65c65fed&hm=95a8857db00009cb24b52312fff57c6ceafbe67f31f99c59fc9c4479f56e23fb&" width="480"/> 
 
-
+JMZwD.exe to plik wykonawczy
+z tego co testowalem to dziala na windows 10, windows server. Na ubuntu nie xd
 
 Prosty generator haseł w oddaniu hołdu M. Ziombkowi, patronowi wszystkich informatyków.
 
