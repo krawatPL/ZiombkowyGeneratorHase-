@@ -8,7 +8,7 @@ Generator Losowych ciągów znaków
 
 ## Pobieranie / Instalacja
 
-1. Pobierasz [instalke](https://github.com/krawatPL/ZiombkowyGeneratorHase-/releases/tag/Instalka) (plik .exe)
+1. Pobierasz [instalke](https://github.com/krawatPL/ZiombkowyGeneratorHase-/releases/) (plik .exe)
 2. Odpalasz
 3. Odpalasz ten plik .exe który ci się pobierze
 4. Chuj, to tyle
