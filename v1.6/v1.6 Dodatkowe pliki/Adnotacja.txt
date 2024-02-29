@@ -1,7 +1,7 @@
 # A takie tam notatki ode mnie.
 
 Najwazniejsze:
-	Instalka.py mozna wyjebac do kosza (jesli ten plik pojawil sie jako wynik jej uzycia)
+	Instalka.exe mozna wyjebac do kosza (jesli ten plik pojawil sie jako wynik jej uzycia)
 	Ilośc haseł można pisać normalnie bądź używając liter [k,m,b]
 		Przykłady:
 			1k = 1000
