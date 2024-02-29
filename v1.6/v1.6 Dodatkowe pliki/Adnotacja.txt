@@ -20,3 +20,5 @@ Spędziłem dodatkowe 30-50 minut robiąc ten kod "idioto-odpornym" (nie mozesz 
 
 Tak z 30% tego kodu zostało poprawione przez chatgpt, bo to mój drugi raz korzystając z pythona kiedykolwiek,
 a tak to używam tego do nauki pytonga oraz na potrzeby personalne.
+
+Oryginalnym przeznaczeniem tego generatora było bruteforcowanie loginów windowsa (NTLM)
