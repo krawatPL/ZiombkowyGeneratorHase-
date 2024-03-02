@@ -23,3 +23,11 @@ Nie
 
 Chuj
 
+#### Do czego moze mi sie ten sciek przydac?
+do tego lol
+
+<img src="https://cdn.discordapp.com/attachments/1157025605863346179/1213471611991105556/image.png?ex=65f59881&is=65e32381&hm=a4a179694492485f82650786f499417c4c6eb0724df3fcedcf34aeb91177f15e&" 
+width="500"/> 
+
+#### Nad czym pracujesz
+Nad wersją tego scieku ale dzialajaca z wykorzystaniem mocy karty graficznej bądź większej ilości wątków. (po polsku BRRRR SZYBCIEJ)
