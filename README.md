@@ -7,7 +7,8 @@ Generator Losowych ciągów znaków
 
 
 ## Pobieranie / Instalacja
-
+Chciałbym tylko napomknąć że ta instalka chuja robi poza tym że pobiera 2 pliki i próbuje zainstalować jakieś śceirwo
+pip które kurwa nie istnieje jak nie masz pythona więc xd 
 1. Pobierasz [instalke](https://github.com/krawatPL/ZiombkowyGeneratorHase-/releases/) (plik .exe)
 2. Odpalasz
 3. Odpalasz ten plik .exe który ci się pobierze
